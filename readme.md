@@ -8,6 +8,7 @@ mechanism in Windows. For example it can be used to clean the activation state
 from a to-be-deployed image.
 
 
+
 Usage
 -----
 **rearm** is required to be run from Windows PE or Windows RE. To use it, place
