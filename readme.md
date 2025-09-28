@@ -12,8 +12,11 @@ from a to-be-deployed image.
 
 
 Usage
------
-**rearm** is required to be run from Windows PE or Windows RE. To use it, place
+
+---------------------------------------------------------------------------
+**rearm** 
+
+is required to be run from Windows PE or Windows RE. To use it, place
 `rearm.cmd` in the root of the drive which contains the installation you wish to
 rearm then reboot to Windows PE or Windows RE and run the script from the
 command prompt.
