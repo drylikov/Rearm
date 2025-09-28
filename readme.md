@@ -3,7 +3,9 @@ Rearm (Rearm Every Activation-Related Mechanism)
 
 ============================================================================
 
-**rearm** is a simple script used to reset the state of every activation-related
+**rearm** 
+
+is a simple script used to reset the state of every activation-related
 mechanism in Windows. For example it can be used to clean the activation state
 from a to-be-deployed image.
 
